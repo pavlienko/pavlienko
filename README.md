@@ -1,6 +1,6 @@
 # Hi there 🙋‍♂️
 
-<p>I'm a front-end developer with a strong background in 3D projects and a former team lead in motion design and architectural visualization. </br>
+<p>I'm a front-end developer with a strong background in 3D projects and a former team lead in motion design and architectural visualization.
 
 Proficient in React, Vue, Next, Nuxt, TypeScript, Three.js, and various 3D graphics software.
 
@@ -9,6 +9,7 @@ Familiar with Nest.js, GraphQL, PostgreSQL, REST API, and experienced in using D
 Committed to delivering high-quality, cutting-edge web solutions that meet the needs of clients and users alike.
 
 With a strong interest in artificial intelligence and computer vision, I am driven to further my career in these exciting and rapidly evolving fields.
+
 Proven ability to lead and motivate teams to deliver exceptional results, and a passion for continuously expanding my knowledge and expertise in the field.</p>
 
 <p dir="auto">
