@@ -1,6 +1,6 @@
 # Hi there 🙋‍♂️
 
-<font size="3">123</font>
+<span style="font-size:4em;">
 I'm a front-end developer with a strong background in 3D projects and a former team lead in motion design and architectural visualization. </br>
 
 Proficient in React, Vue, Next, Nuxt, TypeScript, Three.js, and various 3D graphics software.
@@ -12,7 +12,7 @@ Committed to delivering high-quality, cutting-edge web solutions that meet the n
 With a strong interest in artificial intelligence and computer vision, I am driven to further my career in these exciting and rapidly evolving fields.
 
 Proven ability to lead and motivate teams to deliver exceptional results, and a passion for continuously expanding my knowledge and expertise in the field.
-</font>
+</span>
 
 <p dir="auto">
 <a href="https://instagram.com/nikitapavlienko" target="blank" rel="nofollow"><img src="https://camo.githubusercontent.com/0641e2731604a57f9b9f2de4be17fcf1893c1fbf31dcb3e276f4281208616a1c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d2532334534343035462e7376673f6c6f676f3d496e7374616772616d266c6f676f436f6c6f723d7768697465" alt="Instagram" data-canonical-src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&amp;logoColor=white" style="max-width: 100%;"></a>
