@@ -6,8 +6,6 @@ Proficient in React, Vue, Next, Nuxt, TypeScript, Three.js, and various 3D graph
 
 Familiar with Nest.js, GraphQL, PostgreSQL, REST API, and experienced in using Docker and CI/CD processes.
 
-Committed to delivering high-quality, cutting-edge web solutions that meet the needs of clients and users alike.
-
 With a strong interest in artificial intelligence and computer vision, I am driven to further my career in these exciting and rapidly evolving fields.
 
 Proven ability to lead and motivate teams to deliver exceptional results, and a passion for continuously expanding my knowledge and expertise in the field.</p>
