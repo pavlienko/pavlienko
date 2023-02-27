@@ -1,6 +1,6 @@
 # Hi there 🙋‍♂️
 
-<span style="font-size:4em;">
+<span style="font-size:4rem;">
 I'm a front-end developer with a strong background in 3D projects and a former team lead in motion design and architectural visualization. </br>
 
 Proficient in React, Vue, Next, Nuxt, TypeScript, Three.js, and various 3D graphics software.
