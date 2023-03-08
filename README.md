@@ -1,6 +1,6 @@
 # Hi there 🙋‍♂️
 
-<p>I'm a front-end developer with a strong background in 3D projects and a former team lead in motion design and architectural visualization.
+<p>I'm a full-stack developer with a strong background in 3D projects and a former team lead in motion design and architectural visualization.
 
 Proficient in React, Vue, Next, Nuxt, TypeScript, Three.js, and various 3D graphics software.
 
